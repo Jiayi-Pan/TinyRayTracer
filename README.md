@@ -1,21 +1,23 @@
 # TinyRayTracer
-![9](https://gitee.com/celestepaul/pics/raw/master/typora/9.jpg)
+![9](https://github.com/powercxx/TinyRayTracer/blob/main/demos/9.jpg&raw=true)
 A ray tracer implemented in Python following the [tiny ray tracer tutor](https://github.com/ssloy/tinyraytracer)
 The code is in the notebook and it contains much explanation.
 
 # Demonstration
-![1](https://gitee.com/celestepaul/pics/raw/master/typora/1.jpg)
+![1](https://github.com/powercxx/TinyRayTracer/blob/main/demos/1.jpg&raw=true)
 
-![2](https://gitee.com/celestepaul/pics/raw/master/typora/2.jpg)
+![2](https://github.com/powercxx/TinyRayTracer/blob/main/demos/2.jpg&raw=true)
 
-![3](https://gitee.com/celestepaul/pics/raw/master/typora/3.jpg)
+![3](https://github.com/powercxx/TinyRayTracer/blob/main/demos/3.jpg&raw=true)
 
-![4](https://gitee.com/celestepaul/pics/raw/master/typora/4.jpg)
+![4](https://github.com/powercxx/TinyRayTracer/blob/main/demos/4.jpg&raw=true)
 
-![5](https://gitee.com/celestepaul/pics/raw/master/typora/5.jpg)
+![5](https://github.com/powercxx/TinyRayTracer/blob/main/demos/5.jpg&raw=true)
 
-![6](https://gitee.com/celestepaul/pics/raw/master/typora/6.jpg)
+![6](https://github.com/powercxx/TinyRayTracer/blob/main/demos/6.jpg&raw=true)
 
-![8](https://gitee.com/celestepaul/pics/raw/master/typora/8.jpg)
+![7](https://github.com/powercxx/TinyRayTracer/blob/main/demos/7.jpg&raw=true)
 
-![9](https://gitee.com/celestepaul/pics/raw/master/typora/9.jpg)
+![8](https://github.com/powercxx/TinyRayTracer/blob/main/demos/8.jpg&raw=true)
+
+![9](https://github.com/powercxx/TinyRayTracer/blob/main/demos/9.jpg&raw=true)
