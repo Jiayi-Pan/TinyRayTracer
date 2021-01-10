@@ -1,4 +1,5 @@
 # TinyRayTracer
+![9](https://gitee.com/celestepaul/pics/raw/master/typora/9.jpg)
 A ray tracer implemented in Python following the [tiny ray tracer tutor](https://github.com/ssloy/tinyraytracer)
 The code is in the notebook and it contains much explanation.
 
